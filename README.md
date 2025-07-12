@@ -129,10 +129,13 @@ All pods should be in `Running` state.
 ### Step 10: Setup Keycloak Admin Console
 
 ```bash
-kubectl exec -it <keycloak-pod-name> -- /bin/bash
-# Inside pod
 cd /k8s/manifests/infra
 ./keycloak_adminconsol_start_command
+run this command inside keycloak pod
+
+kubectl exec -it <keycloak-pod-name> -- /bin/bash
+
+
 ```
 
 ### Step 11: Configure Keycloak Client
