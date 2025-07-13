@@ -273,7 +273,8 @@ Production-Deployment-Setup-for-Spring-Boot-3-Microservices-NGINX-Master-Node/
 
 ## 🏗️ Application Architecture
 
-*(Add architecture diagram image here if available)*
+<img width="1328" height="672" alt="image" src="https://github.com/user-attachments/assets/973a057b-d4f5-43cc-bf78-0a3d97432428" />
+
 
 ---
 
