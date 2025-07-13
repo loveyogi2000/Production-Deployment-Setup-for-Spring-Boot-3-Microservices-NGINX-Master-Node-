@@ -1,4 +1,4 @@
-# Production Deployment Setup for Spring Boot 3 Microservices (NGINX + Kubernetes )
+-# Production Deployment Setup for Spring Boot 3 Microservices (NGINX + Kubernetes )
 
 This setup demonstrates how various microservices communicate with each other in a Kubernetes cluster on a single Ubuntu server.
 This guide is built upon the work from [SaiUpadhyayula/spring-boot-3-microservices](https://github.com/SaiUpadhyayula/spring-boot-3-microservices) — all credits to the original author.
