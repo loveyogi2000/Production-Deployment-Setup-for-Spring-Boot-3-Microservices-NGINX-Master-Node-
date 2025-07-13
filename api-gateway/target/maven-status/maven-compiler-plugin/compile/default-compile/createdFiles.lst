@@ -1,0 +1,3 @@
+com/techie/microservices/gateway/ApiGatewayApplication.class
+com/techie/microservices/gateway/config/SecurityConfig.class
+com/techie/microservices/gateway/routes/Routes.class

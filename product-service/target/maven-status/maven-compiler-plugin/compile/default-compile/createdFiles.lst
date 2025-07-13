@@ -1,0 +1,10 @@
+com/techie/microservices/product/controller/ProductController.class
+com/techie/microservices/product/model/Product.class
+com/techie/microservices/product/config/ObservationConfig.class
+com/techie/microservices/product/ProductServiceApplication.class
+com/techie/microservices/product/config/OpenAPIConfig.class
+com/techie/microservices/product/service/ProductService.class
+com/techie/microservices/product/dto/ProductResponse.class
+com/techie/microservices/product/dto/ProductRequest.class
+com/techie/microservices/product/model/Product$ProductBuilder.class
+com/techie/microservices/product/repository/ProductRepository.class

@@ -1,0 +1,9 @@
+/home/azureuser/spring-boot-3-microservices-course/product-service/src/main/java/com/techie/microservices/product/model/Product.java
+/home/azureuser/spring-boot-3-microservices-course/product-service/src/main/java/com/techie/microservices/product/service/ProductService.java
+/home/azureuser/spring-boot-3-microservices-course/product-service/src/main/java/com/techie/microservices/product/repository/ProductRepository.java
+/home/azureuser/spring-boot-3-microservices-course/product-service/src/main/java/com/techie/microservices/product/controller/ProductController.java
+/home/azureuser/spring-boot-3-microservices-course/product-service/src/main/java/com/techie/microservices/product/config/ObservationConfig.java
+/home/azureuser/spring-boot-3-microservices-course/product-service/src/main/java/com/techie/microservices/product/config/OpenAPIConfig.java
+/home/azureuser/spring-boot-3-microservices-course/product-service/src/main/java/com/techie/microservices/product/ProductServiceApplication.java
+/home/azureuser/spring-boot-3-microservices-course/product-service/src/main/java/com/techie/microservices/product/dto/ProductRequest.java
+/home/azureuser/spring-boot-3-microservices-course/product-service/src/main/java/com/techie/microservices/product/dto/ProductResponse.java
